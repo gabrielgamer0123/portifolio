@@ -1,0 +1,19 @@
+#contact iframe
+{
+    width: 100%;
+}
+.viagem_minDiv{
+    border: 1px solid lightseagreen ;
+
+}
+.viagem_minDiv p
+{
+    margin:20px ;
+}
+img {
+    width: 300px ;
+}
+body {
+    text-align: center;
+    background-color: cyan;
+}
